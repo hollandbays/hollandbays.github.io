@@ -236,7 +236,7 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	background-size:cover;
 	
 	width: 100%;
-	height: 100vh;
+	
     
 }
 .section_header2{
@@ -315,10 +315,10 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 
 	#section4{
 	padding: 80px 0;
-	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/witchrt.jpg")
-	no-repeat;
-	background-size:cover;
-background-color: grey;
+	background: url("https://newtabsy.com/wp-content/uploads/2019/05/Witcher-3-Wallpaper-6.jpg");
+
+	
+	
 }
 .section_header4{
 	width:100%;
@@ -353,10 +353,11 @@ background-color: grey;
 
 	#section5{
 	padding: 80px 0;
-	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/skyrim.jpg")
-	no-repeat;
+	background: url("https://i.pinimg.com/originals/d7/2b/92/d72b927c8ab7d41db2bab6510c757bf8.jpg");
+
+	
 	background-size:cover;
-	background-color: grey;
+	
 }
 .section_header5{
 	width:100%;
@@ -396,10 +397,10 @@ background-color: grey;
 
 	#section6{
 	padding: 80px 0;
-	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/sekir.png")
-	no-repeat;
+	background: url("https://ps3hits.ru/wp-content/uploads/2019/04/wp3925182.jpg");
+
 	background-size:cover;
-	background-color: grey;
+	
 }
 .section_header6{
 	width:100%;
@@ -434,10 +435,11 @@ color:#fff;
 
 	#section7{
 	padding: 80px 0;
-	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/unkwnown.jpg")
-	no-repeat;
+	background: url("https://wallup.net/wp-content/uploads/2017/03/27/438875-video_game_characters-The_Witcher-The_Witcher_3_Wild_Hunt-Yennefer_of_Vengerberg-trench_coat.jpg");
+
+	
 	background-size:cover;
-	background-color: grey;
+	
 }
 .section_header7{
 	width:100%;
@@ -478,8 +480,8 @@ color:#fff;
 
 	#section8{
 	padding: 80px 0;
-	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/YENNEFER.jpg")
-	no-repeat;
+	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/YENNEFER.jpg");   
+	
 	background-size:cover;
 }
 .section_header8{
@@ -520,10 +522,10 @@ color:#fff;
 
 	#section9{
 	padding: 80px 0;
-	background: url("https://initiate.alphacoders.com/images/724/stretched-1920-1080-724560.jpg?7846")
-	no-repeat;
+	background: url("https://free4kwallpapers.com/uploads/originals/2016/08/21/tomb-raider-lara-croft-4k-wallpaper.jpg");
+	
 	background-size:cover;
-	background-color: grey;
+	
 }
 .section_header9{
 	width:100%;
