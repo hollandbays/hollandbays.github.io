@@ -43,14 +43,14 @@ h1,h2,h3,h4,h5,h6{
 	height:100vh;
 	
 
-	 background-image:url("totalWARships.jpg"); 
+	 background-image:url('totalWARships.jpg'); 
 	 
 	  -webkit-background-size:cover;
 	  background-size:cover;  }
  
  .header_logo:hover{
    
-	color:/* #88F1E1 */    brown;
+	color:/* #88F1E1 */   red;
 }
 
  .intro_inner{
