@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6{
  
  .header_logo:hover{
    
-	color: /* #88F1E1 */   brown ;
+	color: /* #88F1E1 */   red ;
 }
 
  .intro_inner{
@@ -175,14 +175,15 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 /* FIRST SECTION */
 #section{	
 	padding: 80px 0;
-	background-color: grey;
-	/* background: url("https://free4kwallpapers.com/uploads/originals/2015/10/04/assassins-creed-unity._.jpg") center
-	no-repeat;
 	
-	-webkit-background-size:cover; */
+	 background: url("https://free4kwallpapers.com/uploads/originals/2015/10/04/assassins-creed-unity._.jpg"); 
+
+	
+	background-size:cover;
+	-webkit-background-size:cover; 
 	
 	width: 100%;
-	height: 100vh;
+	
 	
 
 
