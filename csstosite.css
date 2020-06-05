@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6{
  
  .header_logo:hover{
    
-	color: brown/* #88F1E1 */  ;
+	color: blue/* #88F1E1 */  ;
 }
 
  .intro_inner{
@@ -231,7 +231,7 @@ background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 /* SECOND SECTION 40TH */
 #section2{
 	padding: 80px 0;
-	background: url("https://www.games-magazin.de/wp-content/uploads/2015/01/Grand-Theft-Auto-5-1085-3840.jpg");
+	background: url("C:/Users/mhudz/OneDrive/Desktop/sitePHOTOS/gta.jpg");
 	
 	background-size:cover;
 	
